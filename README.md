@@ -1,4 +1,4 @@
-# print("hello,  I'm Pavi  ")
+# print("hello!")
 **Data Science Intern| Junior Data Analyst | AI & Data Analytics Learner | Data Analytics Enthusiast | Kaggle Competitor & Python Explorer | Python Programmer | Technical Writer**
 
 I enjoy learning **through hands-on projects, competitions, community discussions and digital events** rather than just theory.  
