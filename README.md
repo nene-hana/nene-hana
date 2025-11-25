@@ -37,8 +37,6 @@ Technical Writing | Problem-Solving | Self-Learning | Event Networking
 - Advanced Python concepts
 - Data Cleaning & EDA
 - SQL for analytics
-- Machine Learning foundations
-- System thinking & problem-solving
 
 ---
 
