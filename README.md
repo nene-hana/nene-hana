@@ -3,7 +3,8 @@
 
 I enjoy learning **through hands-on projects, competitions, community discussions and digital events** rather than just theory 
 Actively exploring Kaggle and attending events, community discussions helps me stay updated and continuously improve my **data analysis, AI, and problem-solving skills**.  
-![silas hawthorne](https://github.com/user-attachments/assets/cd1e16d5-cdb3-4f72-9bda-611fdc475b9d)
+![Purple Hyacinth - Episode 21_ Tricky Teamwork](https://github.com/user-attachments/assets/16f22b87-705a-4dbe-9003-cbf81205ef61)
+
 
 
 
