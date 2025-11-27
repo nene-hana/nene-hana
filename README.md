@@ -52,7 +52,7 @@ Technical Writing | Problem-Solving | Self-Learning | Event Networking
 
   
 
-### Hackathons & Competitions 🥷
+### Hackathons, Competitions, Events 🥷
 - Active **Kaggle participant**, building problem-solving and modeling skills.  
 - Google 5-Day AI Intensive Course  
 - Microsoft Ignite Digital Event  
