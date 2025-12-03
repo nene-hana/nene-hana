@@ -66,5 +66,5 @@ Technical Writing | Problem-Solving | Self-Learning | Event Networking
 
 ---
 ## 📫 Contact
-**Email:** pavi12r7@gmail.com
+**Email:** paweethera@gmail
 ---
