@@ -53,7 +53,7 @@ Technical Writing | Problem-Solving | Self-Learning | Event Networking
 - Active **Kaggle participant**, building problem-solving and modeling skills.  
 - Google 5-Day AI Intensive Course  
 - Microsoft Ignite Digital Event  
-- Commonwealth Short Story Writing Submission  
+- Commonwealth Short Story Writing 2023  
 
 ---
 
