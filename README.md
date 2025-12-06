@@ -1,7 +1,7 @@
 # print("hello!")
 **Data Science Intern| Junior Data Analyst | AI & Data Analytics Learner | Data Analytics Enthusiast | Kaggle Competitor & Python Explorer | Python Programmer | Technical Writer**
 
-I enjoy learning **through hands-on projects, competitions, community discussions and digital events** rather than just theory 
+I enjoy learning **through hands-on projects, competitions, community discussions and digital events** rather than just theory. 
 Actively exploring Kaggle and attending events, community discussions helps me stay updated and continuously improve my **data analysis, AI, and problem-solving skills**.  
 
 ![silas hawthorne](https://github.com/user-attachments/assets/24279e00-6019-4576-be2e-b5729e661a2b)
