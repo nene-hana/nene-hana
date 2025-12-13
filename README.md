@@ -1,4 +1,4 @@
-# STATUS CONFIRMED!🔰 Entering the World of a tech human.
+# STATUS CONFIRMED!🔰 Entering the World of a tech human
 
 
 **Data Science Intern | Junior Data Analyst | AI & Data Analytics Learner | Data Analytics Enthusiast | Kaggle Competitor & Python Explorer | Python Programmer | Technical Writer**
