@@ -4,6 +4,9 @@
 
 **Data Science Intern | Junior Data Analyst | AI & Data Analytics Learner | Data Analytics Enthusiast | Kaggle Competitor & Python Explorer | Python Programmer | Technical Writer**
 
+![Neon Bongo cat](https://github.com/user-attachments/assets/c4bd63aa-c147-4046-9260-4f65f2d1cbb0)
+
+
 
 I enjoy learning **through hands-on projects, competitions, community discussions, and digital events** rather than just theory.  
 Actively exploring Kaggle and attending tech events helps me continuously improve my **data analysis, AI, and problem-solving skills**.  
