@@ -1,4 +1,4 @@
-# STATUS CONFIRMED!🔰 Entering the World of a tech human
+# STATUS CONFIRMED!🔰 Entering the World of a tech human.
 ---
 
 
