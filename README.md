@@ -2,7 +2,7 @@
 ---
 
 
-**Data Science Intern | Junior Data Analyst | AI & Data Analytics Learner | Data Analytics Enthusiast | Kaggle Competitor & Python Explorer | Python Programmer | Technical Writer**
+**Data Science Intern | Junior Data Analyst  Kaggle Competitor & Python Explorer | Python Programmer | Technical Writer **
 
 ![Neon Bongo cat](https://github.com/user-attachments/assets/c4bd63aa-c147-4046-9260-4f65f2d1cbb0)
 
@@ -60,18 +60,20 @@ Actively exploring Kaggle and attending tech events helps me continuously improv
 ## 🚀 What I'm Currently Learning
 - Advanced Python concepts
 - Data Cleaning & EDA
-- SQL for analytics
+- SQL
+- Bash
+- 
 
 ---
 
 ## 🚀 Key Projects & Achievements
 
-### 1. Waste Recycling Helper App
-- Developed an app to help people with **sustainable digital recycling practices**  
+### 1. CodeSensei – AI-Powered Code Review & Explanation Tool 
 
-### 2. Data Analytics & EDA Projects
-- Hands-on projects on **data cleaning, transformation, and exploratory analysis**  
-- Focused on deriving **meaningful insights from messy, real-world datasets**
+Hackathon: GOOGLE AI Agents Intensive Course 2025 Capstone
+Developed an AI-powered application using Streamlit and Google Gemini 2.0 Flash to automatically review Python code, detect mistakes, suggest improvements, and provide beginner-friendly explanations. Built a clean, interactive web interface and implemented secure API key handling for seamless code analysis. The project was designed for hackathon-friendly demos, emphasizing real-time feedback, learning, and code debugging for students and developers.
+
+
 
 
 ---
