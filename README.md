@@ -2,7 +2,7 @@
 ---
 
 
-**Data Science Intern | Junior Data Analyst  Kaggle Competitor & Python Explorer | Python Programmer | Technical Writer **
+**Data Science Intern | Junior Data Analyst  Kaggle Competitor & Python Explorer | Python Programmer | Technical Writer**
 
 ![Neon Bongo cat](https://github.com/user-attachments/assets/c4bd63aa-c147-4046-9260-4f65f2d1cbb0)
 
