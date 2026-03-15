@@ -11,17 +11,6 @@
 I enjoy learning **through hands-on projects, competitions, community discussions, and digital events** rather than just theory.  
 Actively exploring Kaggle and attending tech events helps me continuously improve my **data analysis, AI, and problem-solving skills**.  
 
----
-
-![](https://github-readme-stats.vercel.app/api?username=nene-hana&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nene-hana&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nene-hana&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=nene-hana&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 ## 🧭 About Me
 - Skilled in **Python programming, data analytics, data visualization, and technical writing**  
@@ -85,6 +74,17 @@ Developed an AI-powered application using Streamlit and Google Gemini 2.0 Flash 
 - Commonwealth Short Story Writing 2023  
 
 ---
+
+
+![](https://github-readme-stats.vercel.app/api?username=nene-hana&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nene-hana&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nene-hana&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nene-hana&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ## 🌐 Connect with Me
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/qibaanziil)
