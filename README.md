@@ -74,17 +74,6 @@ Developed an AI-powered application using Streamlit and Google Gemini 2.0 Flash 
 ---
 
 
-![](https://github-readme-stats.vercel.app/api?username=nene-hana&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nene-hana&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nene-hana&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=nene-hana&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
 
 
 ## 🌐 Connect with Me
