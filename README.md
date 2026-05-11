@@ -2,7 +2,7 @@
 ---
 
 
-**Data Science Intern | Junior Data Analyst  Kaggle Competitor & Python Explorer | Python Programmer | Technical Writer**
+** Junior Data Analyst Intern  | Python Programmer | GSSoC 2026 contributer**
 
 
 
@@ -14,8 +14,7 @@ Actively exploring Kaggle and attending tech events helps me continuously improv
 - Skilled in **Python programming, data analytics, data visualization, and technical writing**  
 - Building practical, project-based skills in **data-driven problem solving**  
 - Active participant in **Kaggle competitions** and hackathons, improving analytical and problem-solving skills  
-- Engaged in **professional tech events and intensive courses** by Google (5-Day AI) and Microsoft (Ignite)  
-- Writing competitions experience including **Commonwealth Short Story submissions**  
+- Engaged in **professional tech events and intensive courses** 
 - Gaining real-world experience via **job simulations offered by reputed companies**
 
 
@@ -42,34 +41,15 @@ Actively exploring Kaggle and attending tech events helps me continuously improv
 ![Self-Learning](https://img.shields.io/badge/Self%20Learning-03A9F4?style=for-the-badge)
 ![Event Networking](https://img.shields.io/badge/Event%20Networking-673AB7?style=for-the-badge)
 
----
-
-## 🚀 What I'm Currently Learning
-- Advanced Python concepts
-- Data Cleaning & EDA
-- SQL
-- Bash
-- 
-
----
-
-## 🚀 Key Projects & Achievements
-
-### 1. CodeSensei – AI-Powered Code Review & Explanation Tool 
-
-Hackathon: GOOGLE AI Agents Intensive Course 2025 Capstone
-Developed an AI-powered application using Streamlit and Google Gemini 2.0 Flash to automatically review Python code, detect mistakes, suggest improvements, and provide beginner-friendly explanations. Built a clean, interactive web interface and implemented secure API key handling for seamless code analysis. The project was designed for hackathon-friendly demos, emphasizing real-time feedback, learning, and code debugging for students and developers.
-
-
 
 
 ---
 
 ## Hackathons, Competitions & Events
--  Active participant in Kaggle competitions  
-- Google 5-Day AI Intensive Course  
-- Microsoft Ignite Digital Event  
-- Commonwealth Short Story Writing 2023  
+
+- Hackathon participant of Google, kaggle
+-  GSoC 2026 contributer
+-  HTB CTF Events
 
 ---
 
@@ -81,9 +61,5 @@ Developed an AI-powered application using Streamlit and Google Gemini 2.0 Flash 
 
 ---
 
-##  Personal Interests & Hobbies
-- Writing and reading stories  
-- Watching anime  
-- Exploring **emerging AI technologies, automation, and real-world problem-solving**  
-- Continuously learning through **events, competitions, and hands-on projects**
+
 
