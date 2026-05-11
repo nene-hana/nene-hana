@@ -1,6 +1,6 @@
 # STATUS CONFIRMED! PROCEED TO MY WORLD🔰
 
-*Junior Data Analyst Intern  | Python Programmer | GSSoC 2026 contributer**
+*Junior Data Analyst Intern  | Python Programmer | GSSoC 2026 contributer*
 
 <img width="2000" height="730" alt="image" src="https://github.com/user-attachments/assets/e993d1d9-db20-4210-adca-60d7e658ac70" />
 
