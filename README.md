@@ -12,7 +12,7 @@ Practical experience across data analytics, cybersecurity, and frontend developm
 
 ## Education
 
-**B.Tech — Computer Science & Engineering** · 2026
+**B.Tech - Computer Science & Engineering** · 2026
 Minor in Robotics & Automation
 
 ---
@@ -38,7 +38,7 @@ Minor in Robotics & Automation
 ## Projects
 
 ### 📊 [Data Analysis Projects](https://github.com/nene-hana/data-analysis-projects)
-EDA and visualization across real and competition datasets. Current work includes Titanic survival prediction and an analysis of the World Festivals Dataset — finding patterns in cultural events across countries.
+EDA and visualization across real and competition datasets. Current work includes Titanic survival prediction and an analysis of the World Festivals Dataset - finding patterns in cultural events across countries.
 
 ### 🔍 [AI Projects](https://github.com/nene-hana/AI-projects)
 Real-world experiments with Python, ML, and LLMs. Built around actual problems, not tutorials.
