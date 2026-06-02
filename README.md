@@ -25,7 +25,7 @@ Minor in Robotics & Automation
 `Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Streamlit` `EDA` `Data Visualization` `Jupyter`
 
 **Cybersecurity**
-`HackTheBox` `CTF` `Network Fundamentals` `Linux`
+`HackTheBox` `CTF` `Network Fundamentals` `Kali Linux`
 
 **Frontend**
 `HTML` `CSS` `Figma`
