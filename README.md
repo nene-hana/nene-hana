@@ -13,7 +13,7 @@ Practical experience across data analytics, cybersecurity, and frontend developm
 ## Education
 
 **B.Tech - Computer Science & Engineering** · 2026
-Minor in Robotics & Automation
+Minor in Robotics & Automation.
 
 ---
 
