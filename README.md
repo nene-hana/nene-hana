@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A9FEF7&width=500&lines=Data.+Security.+Curiiosity.;Always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A9FEF7&width=500&lines=Data.+Security.+Curiosity.;Always+building.)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nene-hana&color=blueviolet&style=flat-square)
 
