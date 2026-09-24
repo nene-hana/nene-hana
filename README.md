@@ -1,32 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A9FEF7&width=500&lines=Data.+Security.+Curiosity.;Always+building.)](https://git.io/typing-svg)
+
+<img width="935" height="314" alt="download (30)" src="https://github.com/user-attachments/assets/14e7b26f-6a26-454c-841e-ee616753abcd" />
+
+
+
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&width=500&lines=%5B+ENGINEER+%5D;%5B+DESIGNER+%5D;%5B+ANALYST+%5D;%5B+DEVELOPER+%5D)](https://git.io/typing-svg)
+
+</div>
+
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nene-hana&color=blueviolet&style=flat-square)
 
-**SOC · Data Analyst · SQL · HTB · GSSoC '26 Contributor**
+** Data Analyst · Designer · Developer· Open source Contributor**
 
 ---
 
-Practical experience across data analytics, cybersecurity, and frontend development. Competed on Kaggle, contributed to open source through GSSoC, and actively play CTFs on HackTheBox.
-
----
-
+Practical experience across data analytics, data science , and frontend development. 
 
 
 ## Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,figma,linux,git,github)](https://skillicons.dev)
+<h2 align="center">[ SKILLS & TOOLS ]</h2>
 
-**Data Analytics**
-`Python` `SQL` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Streamlit` `EDA` `Data Visualization` `Jupyter`
+<div align="center">
 
-**Cybersecurity**
-`HackTheBox` `CTF` `Network Fundamentals` `Kali Linux`
+<!-- DATA ANALYSIS -->
+<h3>📊 DATA ANALYSIS</h3>
 
-**Frontend**
-`HTML` `CSS` `Figma`
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres" />
 
-**Other**
-`Git` `GitHub` `Technical Writing`
+<br><br>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+<br>
+
+<!-- DESIGN -->
+<h3>🎨 DESIGN</h3>
+
+<img src="https://skillicons.dev/icons?i=figma,canva" />
+
+<br>
+
+<!-- DEVELOPMENT -->
+<h3>💻 DEVELOPMENT</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,bash" />
+
+<br>
+
+<!-- TOOLS & PLATFORMS -->
+<h3>⚙️ TOOLS & PLATFORMS</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali" />
+
+</div>
 
 ---
 
@@ -64,20 +97,11 @@ Submissions from Google and Kaggle hackathons — built under time pressure and 
 
 ---
 
-## Currently
+## Achievements
 
-- 🔐 Working through **HTB Academy** — Network Foundations & offensive security
-- 📊 Active on **Kaggle** — [qibaanziil](https://www.kaggle.com/qibaanziil)
-- 💻 **GSSoC 2026** contributor — new features merged
+- 💻 **GSSoC 2026** Open source  contributor — Achieved a global rank of #2,085 among 47,951 participants (Top 5%) in GSoC 2026. Contributed to open-source projects and AI/Agents, earning a total score of 2,020 points through PR contributions and bounty tasks. Gained hands-on experience in open-source collaboration, development, and AI-driven projects.
 
 
----
-
-## Connect
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/qibaanziil)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Inoya-a/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ADD-YOUR-URL-HERE)
 
 ---
 
