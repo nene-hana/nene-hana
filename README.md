@@ -13,7 +13,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nene-hana&color=blueviolet&style=flat-square)
 
-** Data Analyst · Designer · Developer· Open source Contributor**
+**Data Analyst · Designer · Developer· Open source Contributor**
 
 ---
 
